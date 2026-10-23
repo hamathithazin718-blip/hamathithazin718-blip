@@ -140,7 +140,7 @@ and course-related information.
 **Objective:** Explore how software applications can organize
 student and course information.
 
-🔗 **Repository:** Add the specific repository URL when available.
+🔗 **Repository:** [Salesforce-Administrator-with-AI-AgentForce](https://github.com/hamathithazin718-blip/Salesforce-Administrator-with-AI-AgentForce)
 
 ---
 
